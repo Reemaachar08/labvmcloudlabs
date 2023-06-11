@@ -13,18 +13,8 @@
       },
       "AzurePassword": {
         "value": "GET-AZUSER-PASSWORD"
-      },
-      "ODLID": {
-        "value": "GET-ODL-ID"
-      },
-      "DeploymentID": {
-        "value": "GET-DEPLOYMENT-ID"
-			},
-	"azuserobjectid": {
-      "value": "GET-AZUSER-OBJECTID"
-    
       }
-		}
+    }
   }
   
     
