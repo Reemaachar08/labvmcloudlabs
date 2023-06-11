@@ -20,16 +20,10 @@
       "DeploymentID": {
         "value": "GET-DEPLOYMENT-ID"
 			},
-				"azuserobjectid": {
+	"azuserobjectid": {
       "value": "GET-AZUSER-OBJECTID"
     
-      },
-			"trainerUserName": {
-      "value": "trainer"
-    },
-    "trainerUserPassword": {
-      "value": "Password.!!1"
-    }
+      }
 		}
   }
   
